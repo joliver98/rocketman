@@ -90,6 +90,9 @@ article a:active {
   text-decoration: underline;
     color: black;
     }
+.bakgrunnur {
+    background-image: url(bakgrunnur.jpeg);
+}
     
 
    
