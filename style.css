@@ -93,6 +93,10 @@ article a:active {
 .bakgrunnur {
     background-image: url(bakgrunnur.jpeg);
 }
-    
+
+.verkefni {
+    text-align: left; 
+    background-image: url(white-background-marble.jpg); 
+}
 
    
