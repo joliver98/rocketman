@@ -99,4 +99,6 @@ article a:active {
     background-image: url(white-background-marble.jpg); 
 }
 
+.split-para      { display:block;margin:10px;}
+.split-para span { display:block;float:right;width:50%;margin-left:100px;text-align: justify}
    
